@@ -15,6 +15,9 @@ Este projeto faz parte do Bootcamp de Cibersegurança da DIO. O objetivo foi sim
 2. **Criação de Wordlists:** Geração de arquivos `usuarios.txt` e `senhas.txt` contendo credenciais de teste.
 3. **Execução do Ataque:** Utilização do Medusa para testar as combinações via protocolo FTP.
 
+<img width="1455" height="1600" alt="resultado_ataque" src="https://github.com/user-attachments/assets/8177db7e-4419-460e-9fb6-0aab58a7f5b5" />
+
+
 ## Medidas de Mitigação
 Para prevenir este tipo de ataque em ambientes de produção, recomenda-se a implementação das seguintes camadas de segurança:
 
